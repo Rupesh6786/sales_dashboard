@@ -20,10 +20,10 @@ A user-friendly, interactive **Sales Dashboard application** built with **Python
 ## 🖼️ Dashboard Preview
 
 ### 📊 Dashboard Overview  
-![Dashboard](sale_dashboard_images/1_dashboard_overview.png)
+![Dashboard](img/Figure_1.png)
 
 ### 📈 Sales Graph  
-![Sales Graph](sale_dashboard_images/2_sales_chart.png)
+![Sales Graph](img/Figure_2.png)
 
 ### 📋 Product Table  
 ![Product Table](sale_dashboard_images/3_product_table.png)
