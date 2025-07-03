@@ -20,19 +20,13 @@ A user-friendly, interactive **Sales Dashboard application** built with **Python
 ## 🖼️ Dashboard Preview
 
 ### 📊 Dashboard Overview  
-![Dashboard](img/Figure_1.png)
+![Dashboard](img/dashboard.png)
 
 ### 📈 Sales Graph  
-![Sales Graph](img/Figure_2.png)
+![Sales Graph](img/sales_graph.png)
 
-### 📋 Product Table  
-![Product Table](sale_dashboard_images/3_product_table.png)
-
-### 🎛️ Filter and Sorting  
-![Filters](sale_dashboard_images/4_filters_sorting.png)
-
-### 🗂️ CSV Upload View  
-![Upload](sale_dashboard_images/5_data_upload.png)
+### 📈 Sales Trend  
+![Sales Trend](img/sales_trend.png)
 
 ---
 
