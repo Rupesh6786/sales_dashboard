@@ -1,0 +1,101 @@
+Sale_ID,Date,Customer_Name,Car_Brand,Car_Model,Year,Fuel_Type,Transmission,Selling_Price,Cost_Price,Profit,Location,Sales_Person
+SID0001,2025-02-04,Jason Gardner,Honda,CR-V,2021,Electric,Automatic,1041903.17,996923.6,44979.57,Mumbai,Samantha Santana
+SID0002,2023-09-12,Jason Case,Honda,Civic,2020,Petrol,Automatic,582826.62,438748.31,144078.31,Kolkata,Michael Bauer
+SID0003,2023-10-12,Geoffrey Davis,Toyota,Camry,2017,Hybrid,Automatic,630084.5,454957.52,175126.98,Delhi,Claudia Brown
+SID0004,2023-09-28,Denise Parker,Maruti,Swift,2020,Hybrid,Automatic,570542.57,438925.06,131617.51,Delhi,Christine Wade
+SID0005,2025-06-12,Adam Barnes,Kia,Carens,2017,Petrol,Manual,931905.91,825800.64,106105.27,Ahmedabad,Belinda Caldwell
+SID0006,2023-07-19,Patricia Lewis,Toyota,Camry,2022,Electric,Manual,751046.93,673366.96,77679.97,Delhi,John Jones
+SID0007,2024-08-05,Crystal Richmond,Honda,Civic,2022,Electric,Manual,416426.15,382821.4,33604.75,Delhi,Lee Williams
+SID0008,2025-03-08,Nathan Acosta,Tata,Harrier,2019,Hybrid,Automatic,998776.31,856269.37,142506.94,Mumbai,Lisa Fisher MD
+SID0009,2023-08-24,Heather Evans,Toyota,Fortuner,2021,Diesel,Manual,723960.98,571134.73,152826.25,Delhi,Elizabeth Owens
+SID0010,2025-06-06,Ashley Whitehead,Maruti,Swift,2021,Electric,Manual,756403.36,605038.87,151364.49,Pune,Miss Sandra Cannon
+SID0011,2024-03-12,Timothy Garcia,Kia,Seltos,2019,Electric,Automatic,414115.82,366852.17,47263.65,Chennai,John Henry
+SID0012,2024-08-01,James Gonzales,Kia,Carens,2019,Electric,Automatic,554409.43,460521.21,93888.22,Mumbai,Andrea Smith
+SID0013,2025-02-21,Michael Riley,Mahindra,XUV500,2017,Hybrid,Manual,617151.75,584192.15,32959.6,Hyderabad,Jason Hamilton
+SID0014,2024-10-08,Thomas Murray,Maruti,Baleno,2019,Diesel,Manual,985260.31,941346.97,43913.34,Mumbai,Tina Roberts
+SID0015,2024-02-17,Katherine Shields,Hyundai,Creta,2020,Diesel,Automatic,710067.5,517085.61,192981.89,Pune,Mr. Thomas Blevins Jr.
+SID0016,2024-02-18,Molly Hampton,Toyota,Corolla,2023,Petrol,Automatic,753705.95,672534.0,81171.95,Pune,Sandra Ramos
+SID0017,2024-08-24,Steven Buck,Kia,Carens,2021,Electric,Automatic,654068.59,474473.67,179594.92,Pune,Colin Hunt
+SID0018,2023-12-20,Jose Hansen,Maruti,Brezza,2023,Electric,Manual,782500.81,619349.5,163151.31,Chennai,Lawrence Vasquez
+SID0019,2024-03-23,Jennifer Alvarez,Mahindra,Scorpio,2016,Hybrid,Manual,602776.29,541271.39,61504.9,Delhi,Malik Ramirez
+SID0020,2025-01-14,William Meadows DVM,Toyota,Corolla,2015,Electric,Manual,463239.5,312350.85,150888.65,Bangalore,Barbara Frank
+SID0021,2024-12-12,Nathaniel Smith,Tata,Nexon,2022,Electric,Manual,644725.37,494516.5,150208.87,Chennai,Kevin Rush
+SID0022,2025-04-01,Sarah Thornton,Ford,Mustang,2022,Hybrid,Automatic,972103.14,932842.1,39261.04,Mumbai,John Mcguire
+SID0023,2023-10-14,Jillian Brandt,Hyundai,Creta,2015,Petrol,Automatic,1002519.02,897653.26,104865.76,Mumbai,Holly Hall
+SID0024,2023-09-27,Teresa Romero,Kia,Seltos,2020,Diesel,Automatic,865446.85,834000.88,31445.97,Delhi,Christopher Bennett
+SID0025,2025-04-09,Paul Miller,Mahindra,XUV500,2023,Diesel,Manual,846660.39,759638.29,87022.1,Kolkata,Kayla Wright
+SID0026,2024-02-08,Christopher Moore,Hyundai,Verna,2017,Electric,Automatic,729264.3,693782.63,35481.67,Hyderabad,Michael Humphrey
+SID0027,2024-08-09,Kelly Ray,Hyundai,Verna,2020,Hybrid,Manual,814037.42,645266.09,168771.33,Hyderabad,Mary Ware
+SID0028,2024-02-21,John Ramos,Ford,Mustang,2018,Petrol,Manual,806575.48,711678.28,94897.2,Bangalore,Ernest Green
+SID0029,2024-11-17,Jacqueline Morris,Tata,Tiago,2021,Hybrid,Automatic,554449.85,369714.15,184735.7,Pune,Christopher Horton
+SID0030,2024-01-24,Stephanie Brown,Toyota,Corolla,2021,Petrol,Automatic,822651.34,678290.86,144360.48,Ahmedabad,Samantha Sanchez
+SID0031,2023-08-13,Larry Casey,Mahindra,Thar,2015,Hybrid,Automatic,553924.95,378339.35,175585.6,Ahmedabad,Zachary Hughes
+SID0032,2024-10-13,Tyler Payne,Tata,Nexon,2023,Petrol,Automatic,1101062.96,973702.47,127360.49,Kolkata,Andre Keller
+SID0033,2023-10-27,Phillip Wu,Kia,Seltos,2019,Petrol,Manual,869236.87,764447.58,104789.29,Delhi,Michelle Marshall
+SID0034,2023-12-24,Michelle Edwards,Hyundai,Verna,2020,Hybrid,Manual,861569.92,742021.58,119548.34,Delhi,Jasmine Conley
+SID0035,2024-02-20,Michelle Hernandez,Hyundai,i20,2018,Hybrid,Automatic,474040.06,415941.83,58098.23,Kolkata,Alexis Stephens
+SID0036,2023-12-18,Brittany Owens,Mahindra,Thar,2016,Electric,Manual,1025687.53,928833.44,96854.09,Chennai,James Rivera
+SID0037,2024-11-17,Antonio Clark,Ford,Fiesta,2019,Electric,Automatic,542739.07,372764.64,169974.43,Pune,Jason Hernandez
+SID0038,2024-08-30,Brandon Evans,Honda,Civic,2015,Electric,Automatic,944350.24,775040.09,169310.15,Pune,Joseph Woods
+SID0039,2025-05-06,Matthew Torres,Ford,Fiesta,2020,Hybrid,Manual,912265.63,847306.49,64959.14,Hyderabad,Paul Chen
+SID0040,2024-06-29,Dr. Joshua Sanchez,Tata,Harrier,2015,Hybrid,Manual,1025389.69,946627.87,78761.82,Pune,Matthew Taylor
+SID0041,2025-06-22,Steven Castro,Ford,Mustang,2022,Petrol,Automatic,614401.27,471811.76,142589.51,Hyderabad,Erica White
+SID0042,2024-10-09,Alexis Casey,Honda,CR-V,2017,Petrol,Manual,509367.16,488028.33,21338.83,Bangalore,Annette Garcia
+SID0043,2024-10-02,Lauren Hunter,Hyundai,i20,2024,Petrol,Automatic,585239.41,544155.72,41083.69,Ahmedabad,Jennifer Wu
+SID0044,2025-05-08,Courtney Middleton,Honda,CR-V,2024,Hybrid,Manual,586911.54,546534.31,40377.23,Delhi,David Hubbard
+SID0045,2024-04-12,Nathan Walton,Honda,Civic,2022,Electric,Manual,951739.24,752069.72,199669.52,Delhi,James Porter
+SID0046,2024-07-21,Tony Hernandez,Kia,Seltos,2024,Hybrid,Automatic,1022712.62,843872.48,178840.14,Mumbai,James Mcdonald
+SID0047,2025-04-15,Anna Jones,Kia,Carens,2020,Diesel,Automatic,401377.96,358982.44,42395.52,Hyderabad,Isaiah Manning
+SID0048,2024-07-29,Shannon Gilbert,Maruti,Swift,2023,Petrol,Manual,826965.42,727536.01,99429.41,Bangalore,Krystal Mccarty
+SID0049,2024-10-22,Nancy Williams,Kia,Carens,2022,Diesel,Automatic,739477.69,664111.48,75366.21,Ahmedabad,Douglas Woods
+SID0050,2024-11-20,Anna Howell,Honda,Accord,2022,Hybrid,Manual,1049535.83,861868.87,187666.96,Bangalore,Isabella Lawrence
+SID0051,2025-06-30,Peter Johnson,Mahindra,XUV500,2021,Electric,Manual,557821.45,406325.35,151496.1,Kolkata,Alan Hansen
+SID0052,2024-08-15,Debra Bailey,Honda,Accord,2017,Diesel,Automatic,994395.11,810274.26,184120.85,Chennai,Ashley Rasmussen
+SID0053,2025-06-02,Christian Rhodes,Ford,Fiesta,2017,Diesel,Manual,507845.05,341177.18,166667.87,Ahmedabad,Lisa Clark
+SID0054,2024-05-15,Mr. Cody Montgomery DDS,Kia,Sonet,2015,Hybrid,Automatic,451330.87,430483.39,20847.48,Bangalore,Mary Stokes
+SID0055,2024-11-05,Melissa Nicholson,Kia,Sonet,2019,Electric,Automatic,576568.09,380807.17,195760.92,Hyderabad,Alexander Stevens MD
+SID0056,2025-06-07,Ms. Leslie Herman,Hyundai,i20,2023,Petrol,Manual,721614.99,687855.22,33759.77,Pune,Jonathan Thompson
+SID0057,2024-02-08,Christy Olson,Ford,Fiesta,2024,Diesel,Automatic,537619.1,452255.76,85363.34,Pune,Robert Miller
+SID0058,2025-02-07,Kari Bell,Tata,Nexon,2019,Hybrid,Automatic,568464.5,457596.77,110867.73,Mumbai,Robert Stokes
+SID0059,2023-12-02,Samuel Wilson,Ford,Mustang,2021,Hybrid,Manual,1011480.37,904773.87,106706.5,Kolkata,Michael Gray
+SID0060,2023-12-24,Joseph Guerra,Kia,Seltos,2018,Hybrid,Manual,919245.31,880139.94,39105.37,Delhi,Brian Sharp
+SID0061,2025-04-01,Cathy Dalton,Kia,Seltos,2024,Hybrid,Automatic,909383.24,722228.53,187154.71,Bangalore,Robert Kim
+SID0062,2025-02-11,Danielle Holloway,Honda,Civic,2019,Hybrid,Manual,942134.58,836101.92,106032.66,Pune,Brian Martinez
+SID0063,2023-08-03,Timothy Kelley,Honda,CR-V,2022,Diesel,Automatic,514983.76,477237.12,37746.64,Mumbai,Brian Coffey
+SID0064,2024-10-26,Bridget Wolfe,Mahindra,Scorpio,2022,Hybrid,Automatic,550304.93,471994.53,78310.4,Kolkata,Heather Wood
+SID0065,2025-04-26,Kimberly Jones,Hyundai,Verna,2018,Diesel,Manual,796459.21,714812.58,81646.63,Chennai,Hannah Patton
+SID0066,2025-03-19,Michael Taylor,Kia,Sonet,2018,Hybrid,Manual,608703.3,410456.43,198246.87,Ahmedabad,Ellen David
+SID0067,2025-01-05,Teresa Mosley,Honda,Accord,2018,Hybrid,Manual,564964.3,457364.19,107600.11,Delhi,Marvin Brown
+SID0068,2025-03-26,Carrie Silva,Toyota,Corolla,2017,Hybrid,Automatic,384356.57,317285.43,67071.14,Mumbai,Rebecca Allen
+SID0069,2024-06-05,Sarah Mueller,Hyundai,Verna,2018,Hybrid,Automatic,1007831.71,840403.66,167428.05,Ahmedabad,Matthew Hurst
+SID0070,2025-07-01,Amanda Stafford,Ford,Mustang,2023,Diesel,Manual,662146.5,550646.95,111499.55,Hyderabad,Matthew Smith
+SID0071,2024-07-20,Shannon Vazquez,Toyota,Camry,2020,Petrol,Automatic,933306.69,830445.03,102861.66,Pune,Bobby Parker
+SID0072,2023-08-29,Andrew Fuentes,Maruti,Baleno,2018,Petrol,Automatic,925204.03,785031.44,140172.59,Delhi,Angelica Moore
+SID0073,2025-06-03,Craig Williams,Hyundai,Verna,2019,Petrol,Manual,1074233.69,931980.5,142253.19,Pune,Steven Shea PhD
+SID0074,2024-08-02,Mrs. Taylor Wood,Tata,Tiago,2021,Hybrid,Manual,1028112.17,873969.09,154143.08,Hyderabad,Misty Weiss
+SID0075,2024-08-28,Lisa Barnes,Maruti,Baleno,2021,Diesel,Automatic,701718.84,675124.17,26594.67,Ahmedabad,Lauren Lewis
+SID0076,2025-03-12,Heather Payne,Hyundai,Creta,2024,Petrol,Automatic,1130455.98,940360.32,190095.66,Bangalore,Jennifer Wolfe
+SID0077,2024-08-14,Dylan Lloyd,Tata,Harrier,2018,Electric,Automatic,488495.28,416532.24,71963.04,Delhi,Richard Little
+SID0078,2025-03-30,Miranda Brooks,Hyundai,Creta,2024,Petrol,Manual,925312.42,782690.16,142622.26,Pune,Alexis Gonzalez
+SID0079,2024-11-20,Robert Warren,Mahindra,XUV500,2018,Hybrid,Automatic,1082819.63,915966.59,166853.04,Pune,Ashley Edwards
+SID0080,2024-05-11,Jessica Green,Maruti,Baleno,2018,Electric,Manual,472773.54,425381.75,47391.79,Hyderabad,Jennifer Barker
+SID0081,2025-01-05,Michael Woodward,Toyota,Camry,2019,Electric,Automatic,576739.05,382483.54,194255.51,Pune,Anthony Lopez
+SID0082,2024-12-01,Jennifer Richardson,Toyota,Corolla,2021,Petrol,Manual,842911.98,821756.95,21155.03,Delhi,Margaret Roman
+SID0083,2024-09-08,Jonathan Campbell,Ford,Fiesta,2018,Electric,Automatic,889111.11,784116.29,104994.82,Pune,Johnny Krueger
+SID0084,2025-01-01,Melinda Estrada,Kia,Seltos,2020,Hybrid,Automatic,506759.54,464977.25,41782.29,Pune,Kevin Velazquez
+SID0085,2024-09-22,Harry Crane,Honda,Civic,2022,Diesel,Automatic,485981.17,459581.67,26399.5,Bangalore,Brianna White
+SID0086,2024-09-20,Kyle Barber,Toyota,Corolla,2015,Petrol,Automatic,522462.82,337079.31,185383.51,Mumbai,David Harper
+SID0087,2025-02-16,Michelle Carlson,Mahindra,XUV500,2024,Hybrid,Automatic,959641.94,833290.8,126351.14,Mumbai,Thomas Cantu
+SID0088,2023-12-14,James Davila,Honda,Accord,2023,Diesel,Manual,448125.41,379999.98,68125.43,Delhi,Laurie Moore
+SID0089,2024-05-30,Colleen Torres,Mahindra,Thar,2020,Hybrid,Automatic,800304.4,725641.5,74662.9,Pune,Danielle Harvey
+SID0090,2023-09-30,Eduardo Ball,Kia,Carens,2023,Electric,Automatic,1052159.87,893070.49,159089.38,Delhi,Cody Bennett
+SID0091,2024-06-13,Dr. Patricia Morgan,Ford,Mustang,2018,Hybrid,Automatic,588595.73,562973.75,25621.98,Ahmedabad,Steven Fowler
+SID0092,2023-08-15,Matthew Crawford,Kia,Sonet,2020,Diesel,Automatic,1133601.99,952331.75,181270.24,Kolkata,Tracy Rubio
+SID0093,2024-05-13,Tonya Gray,Tata,Tiago,2016,Petrol,Automatic,1014647.56,896335.27,118312.29,Bangalore,Michelle Andrews
+SID0094,2025-03-23,Shelley Fernandez,Kia,Seltos,2018,Electric,Automatic,808632.44,704101.44,104531.0,Kolkata,Tina Silva
+SID0095,2025-05-03,Terry Roberts,Hyundai,Creta,2024,Diesel,Automatic,531980.4,487312.63,44667.77,Bangalore,Jose Mcgrath
+SID0096,2023-12-01,Caroline Mcguire,Ford,Fiesta,2016,Hybrid,Automatic,1028569.49,833409.52,195159.97,Chennai,Thomas Leach
+SID0097,2024-09-10,Cathy Hodges,Hyundai,i20,2015,Hybrid,Automatic,622007.91,437712.48,184295.43,Mumbai,Jennifer Proctor
+SID0098,2025-06-05,Shawn Gray,Honda,Accord,2016,Diesel,Manual,615255.65,487790.53,127465.12,Mumbai,Ashley Adkins
+SID0099,2024-02-06,Jasmine Myers,Kia,Seltos,2016,Electric,Automatic,557547.55,386914.57,170632.98,Delhi,Victoria Boyd
+SID0100,2025-02-28,Jay Brown,Ford,Mustang,2022,Electric,Manual,1179773.13,998529.81,181243.32,Kolkata,Nancy Wolfe
